@@ -4,9 +4,11 @@
  "Id": "0xdab5bffa",
  "Port": 18333,
  "Pver": 70001,
- "DNSName": "btctseed.zagbot.com",
+ "DNSName": "testnet-seed.bitcoin.example.com",
  "TTL": 300,
- "Seeder1": "testnet-seed.alexykot.me",
- "Seeder2": "testnet-seed.bitcoin.petertodd.org",
- "Seeder3": "testnet-seed.bluematt.me"
+ "InitialIP": "127.0.0.1",
+ "Seeder1": "testnet-seed.bitcoin.jonasschnelli.ch",
+ "Seeder2": "seed.tbtc.petertodd.org",
+ "Seeder3": "testnet-seed.bluematt.me",
+ "Seeder4": "seed.testnet.bitcoin.sprovoost.nl"
 }
